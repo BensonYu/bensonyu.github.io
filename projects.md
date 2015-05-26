@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
-weight: 3
+title: Projects
+permalink: /projects/
+weight: 2
 ---
 
 Hi, This is Benson using the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
