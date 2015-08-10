@@ -1,7 +1,7 @@
 # Site settings
 title: Hydra | Online
 author: Benson Yu
-email: benson.yu12@gmail.com
+email: benson(dot)yu12(at)gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Experience Sharing
 baseurl: "" # the subpath of your site, e.g. /blog/
