@@ -1,10 +1,10 @@
 # Site settings
-title: Time Machine
+title: Hydra | Online
 author: Benson Yu
 email: benson.yu12@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Record life bit by bit.
-baseurl: "" # the subpath of your site, e.g. /blog/
+  Experience Sharing
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://bensonyu.github.io" # the base hostname & protocol for your site
 twitter_username: YuYaobin
 github_username:  BensonYu
